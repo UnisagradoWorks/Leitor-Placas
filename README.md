@@ -10,7 +10,7 @@
 <div align="center">
 
 [**Sobre**](#-sobre) **|**
-[**Ferramentas Utilizadas**](#-tecnologias-e-ferramentas-utilizadas) **|**
+[**Ferramentas Utilizadas**](#-ferramentas-utilizadas) **|**
 [**Instalação**](#%EF%B8%8F-instala%C3%A7%C3%A3o) **|**
 [**Desenvolvedores**](#-desenvolvedores)
 
@@ -20,7 +20,7 @@
 
 Projeto desenvolvido como P2 na matéria de Processamento de Imagens, com o objetivo de identificar se há melhorias ou não aplicando filtros nas imagens de placa de carros. Utilizamos a biblioteca de leitura de placas chamada `OpenALPR`
 
-## 💾 Tecnologias e Ferramentas Utilizadas:
+## 💾 Ferramentas Utilizadas:
 <table>
   <tbody>
     <tr>
